@@ -1,0 +1,7 @@
+[package]
+name = "eclipse-che-cli-rust"
+version = "0.1.0"
+authors = ["Florent BENOIT <fbenoit@redhat.com>"]
+
+[dependencies]
+clap = "2.31.2"
