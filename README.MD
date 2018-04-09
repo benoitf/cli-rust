@@ -1,5 +1,5 @@
-#RUN
+### RUN
 cargo run deploy
 
-#BUILD
+### BUILD
 cargo build
